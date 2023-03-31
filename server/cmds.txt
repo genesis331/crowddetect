@@ -1,0 +1,7 @@
+Build: docker build -t gcr.io/crowddetectml/backend:v1 -f Dockerfile .
+Push: docker push gcr.io/crowddetectml/backend:v1
+Deploy: gcloud run deploy crowddetectml-v1 \
+ --image gcr.io/crowddetectml/backend:v1 \
+ --region northamerica-northeast1 \
+ --platform managed \
+ --memory 2048Mi
