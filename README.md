@@ -1,6 +1,6 @@
-# crowddetect
+# CrowdControl
 
-CrowdDetect is a crowd number estimation tool based on machine learning through a multi-column convolutional neural network (MCNN) model. It consists of a server and a client. 
+CrowdControl is a crowd number estimation tool based on machine learning through a multi-column convolutional neural network (MCNN) model. It consists of a server and a client. 
 
 ## Features
 - Monitor passenger numbers using cameras
