@@ -51,3 +51,10 @@ npm install
 ```
 npm run dev
 ```
+
+## Project Members (alphabetical order)
+- Cheah Zixu
+- H’ng Cherng Khai
+- Lim Hui Ern
+- Lim Jun Yi
+- Vanessa Jing Taing
